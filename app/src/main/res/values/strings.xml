@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AppBookingRoom</string>
+    <string name="title_hotel">Hotel Booking</string>
+    <string name="title_info">We missed you! Login to get Started</string>
+    <string name="title_email">Email Address</string>
+    <string name="title_username">Username</string>
+    <string name="title_password">Password</string>
+    <string name="title_address">Address</string>
+    <string name="title_dob">Date of birth</string>
+    <string name="title_btn_login">Login</string>
+    <string name="title_btn_Register">Register</string>
+    <string name="title_btn_login_google">Login With Google</string>
+    <string name="welcome">Welcome</string>
+    <string name="price">Starting Price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_search">Search for hotel</string>
+    <string name="title_main">Search Your Desire Hotel...</string>
+    <string name="read_more">Read more...</string>
+    <string name="str_lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="search_here">Search here...</string>
+    <string name="google_maps_api">AIzaSyDQWA3IPLOYOUnJ9REi4fDK1TKIX7ePl1s</string>
+    <string name="book_now">Book Now</string>
+    <string name="comment">Comment</string>
+    <string name="username">Username</string>
+    <string name="please_wait">Please wait</string>
+    <string name="remember_me">Remember me</string>
+    <string name="slc_gender">Genders</string>
+    <string name="email_address_verification">Email Address Verification</string>
+    <string name="enter_the_code_send_to">Enter the code send to</string>
+    <string name="didn_t_receive_the_code">Didn\'t receive the code?</string>
+    <string name="verify">Verify</string>
+    <string name="clear">Clear</string>
+
+
+    <string-array name="search_demo">
+        <item>Java</item>
+        <item>PHP</item>
+        <item>C/C++</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Angular</item>
+        <item>React</item>
+        <item>VueJs</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string-array name="items_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
